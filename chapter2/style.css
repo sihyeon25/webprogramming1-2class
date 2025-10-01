@@ -1,0 +1,32 @@
+p {
+    color: #0000ff;
+    font-size: 80pt;
+}
+
+h2 {
+    color: #00ff00;
+    font-size: 40pt;
+}
+
+#article-content {
+    color: red;
+    font-size: 30pt;
+    /* margin-left: 100px; */
+    margin: 0px 0px 0px 200px;
+    padding-left: 100px;
+    border: 20px solid #0000ff
+        /* border-width: 20px;
+    border-style: solid;
+    border-color: #0000ff; */
+        /* border-radius: 20px; */
+}
+
+.highlight {
+    background-color: yellow;
+
+}
+
+#about h2 {
+    background-color: red;
+
+}
